@@ -57,3 +57,11 @@ Create a Beautiful Soup object and use it to scrape the data in the HTML table. 
     - Visually estimate the result by plotting the daily minimum temperature.
 
 ## - Export the DataFrame to a CSV file.
+
+# References
+- The Mars News Website is operated by edX Boot Camps LLC for educational purposes only.
+    -     https://static.bc-edx.com/data/web/mars_news/index.html
+- The news article titles, summaries, dates, and images were scraped from NASA's Mars News Website in November 2022.
+    -     https://mars.nasa.gov/
+- Images are used according to the JPL Image Use PolicyLinks to an external site., courtesy NASA/JPL-Caltech.
+    -     https://www.jpl.nasa.gov/jpl-image-use-policy
